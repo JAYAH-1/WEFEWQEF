@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806232228380",
+    "project_id": "mabahinauth",
+    "storage_bucket": "mabahinauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806232228380:android:5f51376a615ee9cb9655d9",
+        "android_client_info": {
+          "package_name": "com.example.mabahin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806232228380-7tvqurtuhlk7uauerkje88ern3up3pve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mabahin",
+            "certificate_hash": "ff22905fda17ba57d8b35821f93c70cb159d2940"
+          }
+        },
+        {
+          "client_id": "806232228380-4d57t0qnok4eesrj5cjvhmkf39hedh53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHasPqzLZHgVroL32Oi8VaMrAPp8x53gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806232228380-4d57t0qnok4eesrj5cjvhmkf39hedh53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
